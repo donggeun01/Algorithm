@@ -1,4 +1,4 @@
-package Study;
+package Study.KMP;
 
 import java.util.ArrayList;
 import java.util.List;
